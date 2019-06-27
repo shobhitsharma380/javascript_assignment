@@ -1,0 +1,2 @@
+https://jsfiddle.net/cqmbh0as/1/       ---  5 number JS
+https://jsfiddle.net/fxyp49re/3/         ---  factorial  
