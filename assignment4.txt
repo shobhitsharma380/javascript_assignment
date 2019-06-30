@@ -1,6 +1,6 @@
-https://jsfiddle.net/b9t27fvg/ 	  -----  longest word in statement
-https://jsfiddle.net/gp8zjmrn/    ----- current date in diff format
-https://jsfiddle.net/x0Lyzmnt/  ---- 1st jan that is sunday
-https://jsfiddle.net/v6cyem0u/  ---- no. of days untill christmas
-https://jsfiddle.net/2erwv0n3/  --removing a letter from string
+https://jsfiddle.net/b9t27fvg/ 	    -- longest word in statement
+https://jsfiddle.net/gp8zjmrn/      -- current date in diff format
+https://jsfiddle.net/x0Lyzmnt/      -- 1st jan that is sunday
+https://jsfiddle.net/v6cyem0u/      -- no. of days untill christmas
+https://jsfiddle.net/2erwv0n3/      -- removing a letter from string
 
