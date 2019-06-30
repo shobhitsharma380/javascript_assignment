@@ -1,0 +1,5 @@
+https://jsfiddle.net/txL3o7mp/   ---- current date and day
+https://jsfiddle.net/cuzfx7g2/      ----   leap year
+https://jsfiddle.net/svygazpd/     ---- random number
+https://jsfiddle.net/v6cyem0u/   ---- no of days untill Cmas
+https://jsfiddle.net/kL3suvjp/     ----  1st letter capital
